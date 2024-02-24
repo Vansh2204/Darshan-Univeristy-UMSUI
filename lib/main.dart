@@ -183,7 +183,7 @@ class homepage extends StatelessWidget {
                       ),
                       GestureDetector(
                         onTap: () {
-                          timetable_dialog(context);
+                           return timetable_bottomsheet(context);
                         },
                         child: Card(
                           elevation: 10,
