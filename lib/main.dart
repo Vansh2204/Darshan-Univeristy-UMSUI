@@ -106,6 +106,7 @@ class homepage extends StatelessWidget {
                   padding: EdgeInsets.fromLTRB(0.0, 175.0, 0.0, 0.0),
                   child: Text(
                     'Branch \n CSE',
+                     textAlign: TextAlign.center,
                     style: TextStyle(color: Colors.white),
                   ),
                 ),
@@ -113,6 +114,7 @@ class homepage extends StatelessWidget {
                   padding: EdgeInsets.fromLTRB(0.0, 175.0, 0.0, 0.0),
                   child: Text(
                     'Sem \n 4',
+                    textAlign: TextAlign.center,
                     style: TextStyle(color: Colors.white),
                   ),
                 ),
@@ -120,6 +122,7 @@ class homepage extends StatelessWidget {
                   padding: EdgeInsets.fromLTRB(0.0, 175.0, 0.0, 0.0),
                   child: Text(
                     'Div \n CSE-4D',
+                     textAlign: TextAlign.center,
                     style: TextStyle(color: Colors.white),
                   ),
                 ),
@@ -127,6 +130,7 @@ class homepage extends StatelessWidget {
                   padding: EdgeInsets.fromLTRB(0.0, 175.0, 0.0, 0.0),
                   child: Text(
                     'Roll \n 622',
+                     textAlign: TextAlign.center,
                     style: TextStyle(color: Colors.white),
                   ),
                 ),
@@ -134,6 +138,7 @@ class homepage extends StatelessWidget {
                   padding: EdgeInsets.fromLTRB(10.0, 175.0, 0.0, 0.0),
                   child: Text(
                     'Batch \n 2',
+                     textAlign: TextAlign.center,
                     style: TextStyle(color: Colors.white),
                   ),
                 )
