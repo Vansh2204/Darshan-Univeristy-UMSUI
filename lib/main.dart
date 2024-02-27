@@ -81,7 +81,7 @@ class homepage extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  padding: EdgeInsets.fromLTRB(0.0, 110.0, 0.0, 0.0),
+                  padding: EdgeInsets.fromLTRB(0.0, 115.0, 0.0, 0.0),
                   child: Text(
                     '23010101622@darshan.ac.in',
                     style: TextStyle(color: Colors.white),
